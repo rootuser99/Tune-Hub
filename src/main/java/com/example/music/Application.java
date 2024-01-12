@@ -1,0 +1,14 @@
+package com.example.music;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Application.class, args);
+	}
+
+}
+//https://cdn-icons-png.flaticon.com/128/6238/6238893.png

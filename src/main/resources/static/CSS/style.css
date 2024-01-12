@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url('https://static.vecteezy.com/system/resources/previews/007/935/202/non_2x/seamless-pattern-background-for-theme-music-vector.jpg') 
+  no-repeat center center fixed;
+  background-size: cover;
+}
+
+lbutton{
+	/* background-color: #04AA6D; */
+	position: relative;
+	font-family: cursive;
+	border: none;
+ 
+}
+.lvertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50.5%;
+  left:41%;
+  
+}
+
+.login-button {
+    background-image: url('https://cdn-user-icons.flaticon.com/133850/133850755/1704987093867.svg?token=exp=1704988065~hmac=07b17df969e13d1b67e9218da2fa867c');
+    background-size: 100%; /* Adjust to 'contain' or custom values as needed */
+    border: none;
+    padding :19px 46px;/* Adjust padding as needed */
+    cursor: pointer;
+    background-color: #404040;
+    /* Add any additional button styles as needed */
+}
+
+.login-button a {
+    text-decoration: none;
+    color: white;
+}
+
+.register-button{
+	background-image: url('https://cdn-user-icons.flaticon.com/133850/133850755/1704980078895.svg?token=exp=1704984353~hmac=cc86b616b08c9247456298f1f70f746f');
+	background-size: 100%;
+	border :none;
+	padding :19px 25px;
+	cursor : pointer;
+	background-color: #404040;
+	
+}
+.register-button a {
+    text-decoration: none;
+    color: white;
+}
+rbutton{
+	
+	position: relative;
+	font-family: cursive;
+	 border:none;
+}
+.rvertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left:52%;
+  
+}
